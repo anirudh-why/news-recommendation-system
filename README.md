@@ -21,4 +21,5 @@ This project is a sophisticated news recommendation system that scrapes news art
 ## Contact
 
 Anirudh Yellamraju - anirudh.why@gmail.com
+
 Project Link: [[https://github.com/anirudh-why/news-recommendation-system](https://github.com/anirudh-why/news-recommendation-system)]
